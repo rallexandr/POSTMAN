@@ -1,1 +1,1 @@
-# POSTMAN
+# POSTMAN. Auto test collection
